@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<squadron>
+    <info affiliation="" designation="" />
+    <pilot piloting="" gunnery="" name="" />
+    <fighters>
+        <fighter name="" thrust="" heatsinks="" armor="" bv="" cost="">
+            <weapon id="" count="" location="" tech="" />
+            <!-- ... -->
+        </fighter>
+        <!-- ... -->
+    </fighters>
+</squadron>

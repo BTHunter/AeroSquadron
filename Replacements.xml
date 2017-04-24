@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<replacements>
+    <language identifier="en-US">
+        <item original="Medium " replacement="M-" />
+        <item original="Large " replacement="L-" />
+        <item original="Small " replacement="S-" />
+        <item original="Gauss Rifle" replacement="Gauss" />
+        <item original="Autocannon" replacement="AC" />
+        <item original="Beagle Active Probe" replacement="Beagle Probe" />
+        <item original="Narc Missile Beacon" replacement="Narc Beacon" />
+    </language>
+    <language identifier="de-DE">
+        <item original="Medium " replacement="M-" />
+        <item original="Large " replacement="S-" />
+        <item original="Small " replacement="L-" />
+        <item original="Gauss Rifle" replacement="Gauss" />
+        <item original="Autocannon" replacement="AK" />
+        <item original="AC" replacement="AK" />
+        <item original="LRM" replacement="LSR" />
+        <item original="SRM" replacement="KSR" />
+        <item original="MRM" replacement="MSR" />
+        <item original="ATM" replacement="TakRak" />
+        <item original="PPC" replacement="PPK" />
+        <item original="AMS" replacement="RAS" />
+        <item original="Flamer" replacement="Flammer" />
+        <item original="Machine Gun" replacement="MG" />
+        <item original="Beagle Active Probe" replacement="Beaglesonce" />
+        <item original="Guardian ECM" replacement="Wächter ECM" />
+        <item original="Narc Missile Beacon" replacement="Narc Boje" />
+    </language>
+</replacements>

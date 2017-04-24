@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            <xsd:complexType>
+                <xsd:choice maxOccurs="unbounded">
+                    <xsd:element name="data">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" />
+                            <xsd:attribute name="type" type="xsd:string" />
+                            <xsd:attribute name="mimetype" type="xsd:string" />
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="resheader">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" use="required" />
+                        </xsd:complexType>
+                    </xsd:element>
+                </xsd:choice>
+            </xsd:complexType>
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="ResMimeType">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="Version">
+        <value>1.0.0.0</value>
+    </resheader>
+    <resheader name="Reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.3102.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="Writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.3102.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="MainFormTitle">
+        <value>AeroSquadron</value>
+    </data>
+    <data name="MainMenuFile">
+        <value>File</value>
+    </data>
+    <data name="MainMenuLoad">
+        <value>Load</value>
+    </data>
+    <data name="MainMenuSave">
+        <value>Save</value>
+    </data>
+    <data name="MainMenuPageSetup">
+        <value>Page Setup</value>
+    </data>
+    <data name="MainMenuPrintPreview">
+        <value>Print Preview</value>
+    </data>
+    <data name="MainMenuPrint">
+        <value>Print</value>
+    </data>
+    <data name="MainMenuExit">
+        <value>Exit</value>
+    </data>
+    <data name="MainMenuSquadron">
+        <value>Squadron</value>
+    </data>
+    <data name="MainMenuNewSquadron">
+        <value>New Squadron</value>
+    </data>
+    <data name="MainMenuAddFighter">
+        <value>Add Fighter</value>
+    </data>
+    <data name="MainMenuInfo">
+        <value>Info</value>
+    </data>
+    <data name="MainMenuHelp">
+        <value>Help</value>
+    </data>
+    <data name="MainMenuAbout">
+        <value>About</value>
+    </data>
+    <data name="ContextMenuRemove">
+        <value>Remove</value>
+    </data>
+    <data name="ListCount">
+        <value>Count</value>
+    </data>
+    <data name="ListName">
+        <value>Name</value>
+    </data>
+    <data name="ListArmor">
+        <value>Armor</value>
+    </data>
+    <data name="ListType">
+        <value>Type</value>
+    </data>
+    <data name="ListLocation">
+        <value>Loc.</value>
+    </data>
+    <data name="ListHeat">
+        <value>Heat</value>
+    </data>
+    <data name="ListSRV">
+        <value>SRV</value>
+    </data>
+    <data name="ListMRV">
+        <value>MRV</value>
+    </data>
+    <data name="ListLRV">
+        <value>LRV</value>
+    </data>
+    <data name="ListERV">
+        <value>ERV</value>
+    </data>
+    <data name="StatusCount">
+        <value>Count</value>
+    </data>
+    <data name="StatusBV">
+        <value>BV</value>
+    </data>
+    <data name="StatusCost">
+        <value>Cost</value>
+    </data>
+    <data name="PageSquadronData">
+        <value>Squadron Data</value>
+    </data>
+    <data name="PageName">
+        <value>Name</value>
+    </data>
+    <data name="PageAffiliation">
+        <value>Affiliation</value>
+    </data>
+    <data name="PageThrust">
+        <value>Thrust</value>
+    </data>
+    <data name="PageSafeThrust">
+        <value>Safe Thrust</value>
+    </data>
+    <data name="PageMaximumThrust">
+        <value>Maximum Thrust</value>
+    </data>
+    <data name="PageFighter">
+        <value>Fighter</value>
+    </data>
+    <data name="PageHeatCapacity">
+        <value>Total Heat Capacity</value>
+    </data>
+    <data name="PageHeatGeneration">
+        <value>Total Heat Generated</value>
+    </data>
+    <data name="PageNose">
+        <value>Nose</value>
+    </data>
+    <data name="PageRightWing">
+        <value>Right Wing</value>
+    </data>
+    <data name="PageLeftWing">
+        <value>Left Wing</value>
+    </data>
+    <data name="PageAft">
+        <value>Aft</value>
+    </data>
+    <data name="PagePilotData">
+        <value>Pilot Data</value>
+    </data>
+    <data name="PageGunnerySkill">
+        <value>Gunnery Skill</value>
+    </data>
+    <data name="PagePilotingSkill">
+        <value>Piloting Skill</value>
+    </data>
+    <data name="PageHitsTaken">
+        <value>Hits Taken</value>
+    </data>
+    <data name="PageModifier">
+        <value>Modifier</value>
+    </data>
+    <data name="PageVelocityRecord">
+        <value>Velocity Record</value>
+    </data>
+    <data name="PageTurn">
+        <value>Turn</value>
+    </data>
+    <data name="PageVelocity">
+        <value>Velocity</value>
+    </data>
+    <data name="PageEffeciveVelocity">
+        <value>Eff. Vel.</value>
+    </data>
+    <data name="PageAltitude">
+        <value>Altitude</value>
+    </data>
+    <data name="PageFuel">
+        <value>Fuel</value>
+    </data>
+    <data name="PageActiveFighters">
+        <value>Active Fighters</value>
+    </data>
+    <data name="PageArmorDiagram">
+        <value>Armor Diagram</value>
+    </data>
+    <data name="PageCapitalScaleArmor">
+        <value>Capital Scale Armor</value>
+    </data>
+    <data name="PageDamageThreshold">
+        <value>Squadron Damage Threshold</value>
+    </data>
+    <data name="PageTotalArmor">
+        <value>Total Armor</value>
+    </data>
+    <data name="PageCriticalDamage">
+        <value>Critical Damage</value>
+    </data>
+    <data name="PageAvionics">
+        <value>Avionics</value>
+    </data>
+    <data name="PageCargo">
+        <value>Cargo</value>
+    </data>
+    <data name="PageEngine">
+        <value>Engine</value>
+    </data>
+    <data name="PageFCS">
+        <value>FCS</value>
+    </data>
+    <data name="PageGear">
+        <value>Gear</value>
+    </data>
+    <data name="PageLifeSupport">
+        <value>Life Support</value>
+    </data>
+    <data name="PageSensors">
+        <value>Sensors</value>
+    </data>
+    <data name="PageThrusters">
+        <value>Thrusters</value>
+    </data>
+    <data name="PageLeft">
+        <value>Left</value>
+    </data>
+    <data name="PageRight">
+        <value>Right</value>
+    </data>
+    <data name="PageCost">
+        <value>Cost</value>
+    </data>
+    <data name="PageBV">
+        <value>BV</value>
+    </data>
+    <data name="PageWeaponListing">
+        <value>Weapons and Equipment Inventory</value>
+    </data>
+    <data name="DialogError">
+        <value>Error</value>
+    </data>
+    <data name="DialogQuestion">
+        <value>Question</value>
+    </data>
+    <data name="DialogNoWeaponFiles">
+        <value>No weapon-files found.</value>
+    </data>
+    <data name="DialogInvalidFile">
+        <value>Invalid file selected. Maybe not an Aerospace-Fighter?</value>
+    </data>
+    <data name="DialogNoFighters">
+        <value>No fighters found.</value>
+    </data>
+    <data name="DialogTooManyFighters">
+        <value>Too many fighters selected, maximum is 12.</value>
+    </data>
+    <data name="DialogTooManyWeapons">
+        <value>Too many weapons for printout, maximum is 30.</value>
+    </data>
+    <data name="DialogNonStandardNumberFighters">
+        <value>Non-standard number of fighters. Procced anyways?</value>
+    </data>
+    <data name="DialogOpenTitle">
+        <value>Open AeroSpace-Fighter File</value>
+    </data>
+    <data name="DialogFighterFilterText">
+        <value>HeavyMetal Aero files</value>
+    </data>
+    <data name="DialogClearSquadron">
+        <value>Really clear squadron?</value>
+    </data>
+    <data name="PageCurrency">
+        <value>C-Bills</value>
+    </data>
+    <data name="PageArmorThreshold">
+        <value>Squadron Damage Threshold</value>
+    </data>
+    <data name="InfoProduct">
+        <value>AeroSquadron</value>
+    </data>
+    <data name="InfoVersionText">
+        <value>Version</value>
+    </data>
+    <data name="InfoCopyright">
+        <value>Copyright (c) 2005-2006 by Dennis Müller</value>
+    </data>
+    <data name="InfoLicenseInformation">
+        <value>License Information</value>
+    </data>
+    <data name="InfoContact">
+        <value>Contact</value>
+    </data>
+    <data name="InfoEmail">
+        <value>dennis@twobt.de</value>
+    </data>
+    <data name="InfoWebsiteLink">
+        <value>http://www.twobt.de/1013.html</value>
+    </data>
+    <data name="InfoLicenseText"></data>
+    <data name="ButtonClose">
+        <value>Close</value>
+    </data>
+    <data name="LabelCount">
+        <value>aerospace fighter #</value>
+    </data>
+    <data name="InfoWebsiteText">
+        <value>The World of BattleTech</value>
+    </data>
+    <data name="MainMenuOptions">
+        <value>Options</value>
+    </data>
+    <data name="LanguageEnglish">
+        <value>English</value>
+    </data>
+    <data name="LanguageGerman">
+        <value>German</value>
+    </data>
+    <data name="DialogSaveAsTitle">
+        <value>Save As</value>
+    </data>
+    <data name="DialogSquadronFilterText">
+        <value>AeroSquadron squadron</value>
+    </data>
+    <data name="MainMenuSaveAs">
+        <value>Save as...</value>
+    </data>
+    <data name="PagePilotIncapacitated">
+        <value>Inc.</value>
+    </data>
+    <data name="PageFooter">
+        <value>This sheet was produced by AeroSquadron from TWoBT. AeroTech 2 is a trademark of WizKids LLC. Permission to photocopy for personal use.</value>
+    </data>
+    <data name="PageActiveFighters">
+        <value>Active Fighters</value>
+    </data>
+    <data name="PageSquadronRecordSheet">
+        <value>Squadron Record Sheet</value>
+    </data>
+    <data name="PageWeaponHeader">
+        <value>Weapons and Equipment Inventory</value>
+    </data>
+    <data name="PageWeaponType">
+        <value>Type</value>
+    </data>
+    <data name="PageWeaponLocation">
+        <value>Loc.</value>
+    </data>
+    <data name="PageWeaponHeat">
+        <value>Heat</value>
+    </data>
+    <data name="PageWeaponSRV">
+        <value>SRV</value>
+    </data>
+    <data name="PageWeaponMRV">
+        <value>MRV</value>
+    </data>
+    <data name="PageWeaponLRV">
+        <value>LRV</value>
+    </data>
+    <data name="PageWeaponERV">
+        <value>ERV</value>
+    </data>
+    <data name="DataAffiliation">
+        <value>Affiliation</value>
+    </data>
+    <data name="DataDesignation">
+        <value>Designation</value>
+    </data>
+    <data name="DataGunnery">
+        <value>Gunnery</value>
+    </data>
+    <data name="DataPiloting">
+        <value>Piloting</value>
+    </data>
+    <data name="MainMenuExtendedPrintout">
+        <value>Extended Printout</value>
+    </data>
+    <data name="ListHeatsinks">
+        <value>Heatsinks</value>
+    </data>
+    <data name="LocationShortNose">
+        <value>N</value>
+    </data>
+    <data name="LocationShortWing">
+        <value>W</value>
+    </data>
+    <data name="LocationShortAft">
+        <value>A</value>
+    </data>
+    <data name="FighterCount">
+        <value>aerospace fighter #</value>
+    </data>
+    <data name="DialogImportTitle">
+        <value>Import HMA Roster File</value>
+    </data>
+    <data name="DialogRosterFilterText">
+        <value>HeavyMetal Aero Roster</value>
+    </data>
+    <data name="PageDestroyed">
+        <value>D</value>
+    </data>
+    <data name="MainFullDamageList">
+        <value>Full Damage List</value>
+    </data>
+    <data name="PageAdvancedMovement">
+        <value>Advanced Movement Vectors</value>
+    </data>
+    <data name="PageTech">
+        <value>Technology Base</value>
+    </data>
+    <data name="PageTechType0">
+        <value>Undefined</value>
+    </data>
+    <data name="PageTechType1">
+        <value>Inner Sphere</value>
+    </data>
+    <data name="PageTechType2">
+        <value>Clan</value>
+    </data>
+    <data name="PageTechType3">
+        <value>Mixed</value>
+    </data>
+</root>

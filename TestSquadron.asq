@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<squadron>
+    <info affiliation="Federated Suns" designation="Alpha Squadron" />
+    <pilot piloting="3" gunnery="4" name="Cmd. Jane Austen" />
+    <fighters>
+        <fighter name="Fighter A" thrust="5" heatsinks="8" armor="216" bv="1000" cost="6000000" count="2" fuel="5" lrmartemis="true" srmartemis="false" targeting="false">
+            <weapon id="35" count="2" location="F" tech="I" />
+            <weapon id="50" count="1" location="W" tech="I" />
+            <weapon id="40" count="1" location="A" tech="I" />
+        </fighter>
+        <fighter name="Fighter B" thrust="6" heatsinks="9" armor="168" bv="500" cost="4000000" count="4" fuel="5" lrmartemis="false" srmartemis="false" targeting="false">
+            <weapon id="35" count="2" location="W" tech="I" />
+            <weapon id="36" count="1" location="W" tech="I" />
+        </fighter>
+    </fighters>
+</squadron>
